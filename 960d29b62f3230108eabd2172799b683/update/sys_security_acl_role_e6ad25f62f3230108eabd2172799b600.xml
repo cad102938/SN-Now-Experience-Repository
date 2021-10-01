@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>alealvar</sys_created_by>
+        <sys_created_on>2021-09-28 13:27:01</sys_created_on>
+        <sys_id>e6ad25f62f3230108eabd2172799b600</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_660033_now_exp_resource.x_660033_now_exp.resource_admin</sys_name>
+        <sys_package display_value="Now Experience Resources DB" source="x_660033_now_exp">960d29b62f3230108eabd2172799b683</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Experience Resources DB">960d29b62f3230108eabd2172799b683</sys_scope>
+        <sys_security_acl display_value="x_660033_now_exp_resource">26ade1f62f3230108eabd2172799b6fd</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e6ad25f62f3230108eabd2172799b600</sys_update_name>
+        <sys_updated_by>alealvar</sys_updated_by>
+        <sys_updated_on>2021-09-28 13:31:55</sys_updated_on>
+        <sys_user_role display_value="x_660033_now_exp.resource_admin" name="x_660033_now_exp.resource_admin">8c9ee9f62f3230108eabd2172799b665</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

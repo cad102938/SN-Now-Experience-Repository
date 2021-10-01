@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_duration__min_" label="Duration (min)" language="en" table="u_imp_tmpl_x_660033_now_exp_resource">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_duration__min_</element>
+            <help/>
+            <hint/>
+            <label>Duration (min)</label>
+            <language>en</language>
+            <name>u_imp_tmpl_x_660033_now_exp_resource</name>
+            <plural>Duration (min)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>alealvar</sys_created_by>
+            <sys_created_on>2021-09-30 17:37:56</sys_created_on>
+            <sys_id>e94ab0e32ff230108eabd2172799b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Duration (min)</sys_name>
+            <sys_package display_value="Now Experience Resources DB" source="x_660033_now_exp">960d29b62f3230108eabd2172799b683</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Now Experience Resources DB">960d29b62f3230108eabd2172799b683</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_tmpl_x_660033_now_exp_resource_u_duration__min__en</sys_update_name>
+            <sys_updated_by>alealvar</sys_updated_by>
+            <sys_updated_on>2021-09-30 17:37:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

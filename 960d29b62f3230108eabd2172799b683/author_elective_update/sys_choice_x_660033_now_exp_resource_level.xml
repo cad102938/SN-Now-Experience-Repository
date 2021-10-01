@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="level" table="x_660033_now_exp_resource" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>level</element>
+            <name>x_660033_now_exp_resource</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>alealvar</sys_created_by>
+            <sys_created_on>2021-09-30 17:25:05</sys_created_on>
+            <sys_id>e95774ef2fb230108eabd2172799b62b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>level</sys_name>
+            <sys_package display_value="Now Experience Resources DB" source="x_660033_now_exp">960d29b62f3230108eabd2172799b683</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Now Experience Resources DB">960d29b62f3230108eabd2172799b683</sys_scope>
+            <sys_update_name>sys_choice_x_660033_now_exp_resource_level</sys_update_name>
+            <sys_updated_by>alealvar</sys_updated_by>
+            <sys_updated_on>2021-09-30 17:25:05</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Beginner</label>
+            <language>en</language>
+            <name>x_660033_now_exp_resource</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>alealvar</sys_created_by>
+            <sys_created_on>2021-09-30 17:25:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f47b8e72fb230108eabd2172799b664</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>alealvar</sys_updated_by>
+            <sys_updated_on>2021-09-30 17:26:02</sys_updated_on>
+            <value>beginner</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Intermediate</label>
+            <language>en</language>
+            <name>x_660033_now_exp_resource</name>
+            <sequence>200</sequence>
+            <synonyms/>
+            <sys_created_by>alealvar</sys_created_by>
+            <sys_created_on>2021-09-30 17:25:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e157f4232ff230108eabd2172799b6e5</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>alealvar</sys_updated_by>
+            <sys_updated_on>2021-09-30 17:25:22</sys_updated_on>
+            <value>intermediate</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Advanced</label>
+            <language>en</language>
+            <name>x_660033_now_exp_resource</name>
+            <sequence>300</sequence>
+            <synonyms/>
+            <sys_created_by>alealvar</sys_created_by>
+            <sys_created_on>2021-09-30 17:26:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d467f4232ff230108eabd2172799b6d7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>alealvar</sys_updated_by>
+            <sys_updated_on>2021-09-30 17:26:11</sys_updated_on>
+            <value>advanced</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

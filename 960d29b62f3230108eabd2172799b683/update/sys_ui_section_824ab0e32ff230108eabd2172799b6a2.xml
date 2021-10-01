@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="824ab0e32ff230108eabd2172799b6a2" sys_domain="global" table="u_imp_tmpl_x_660033_now_exp_resource" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_title</element>
+            <position>0</position>
+            <sys_created_by>alealvar</sys_created_by>
+            <sys_created_on>2021-09-30 17:37:57</sys_created_on>
+            <sys_id>824ab0e32ff230108eabd2172799b6a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_660033_now_exp_resource" sys_domain="global" view="Default view">824ab0e32ff230108eabd2172799b6a2</sys_ui_section>
+            <sys_updated_by>alealvar</sys_updated_by>
+            <sys_updated_on>2021-09-30 17:37:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>alealvar</sys_created_by>
+            <sys_created_on>2021-09-30 17:37:57</sys_created_on>
+            <sys_id>8a4ab0e32ff230108eabd2172799b6a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_660033_now_exp_resource" sys_domain="global" view="Default view">824ab0e32ff230108eabd2172799b6a2</sys_ui_section>
+            <sys_updated_by>alealvar</sys_updated_by>
+            <sys_updated_on>2021-09-30 17:37:57</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_level</element>
+            <position>2</position>
+            <sys_created_by>alealvar</sys_created_by>
+            <sys_created_on>2021-09-30 17:37:57</sys_created_on>
+            <sys_id>0e4ab0e32ff230108eabd2172799b6a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_660033_now_exp_resource" sys_domain="global" view="Default view">824ab0e32ff230108eabd2172799b6a2</sys_ui_section>
+            <sys_updated_by>alealvar</sys_updated_by>
+            <sys_updated_on>2021-09-30 17:37:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>alealvar</sys_created_by>
+            <sys_created_on>2021-09-30 17:37:57</sys_created_on>
+            <sys_id>8e4ab0e32ff230108eabd2172799b6a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_660033_now_exp_resource" sys_domain="global" view="Default view">824ab0e32ff230108eabd2172799b6a2</sys_ui_section>
+            <sys_updated_by>alealvar</sys_updated_by>
+            <sys_updated_on>2021-09-30 17:37:57</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_author</element>
+            <position>4</position>
+            <sys_created_by>alealvar</sys_created_by>
+            <sys_created_on>2021-09-30 17:37:57</sys_created_on>
+            <sys_id>024ab0e32ff230108eabd2172799b6a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_660033_now_exp_resource" sys_domain="global" view="Default view">824ab0e32ff230108eabd2172799b6a2</sys_ui_section>
+            <sys_updated_by>alealvar</sys_updated_by>
+            <sys_updated_on>2021-09-30 17:37:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>alealvar</sys_created_by>
+            <sys_created_on>2021-09-30 17:37:57</sys_created_on>
+            <sys_id>824ab0e32ff230108eabd2172799b6a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_660033_now_exp_resource" sys_domain="global" view="Default view">824ab0e32ff230108eabd2172799b6a2</sys_ui_section>
+            <sys_updated_by>alealvar</sys_updated_by>
+            <sys_updated_on>2021-09-30 17:37:57</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_link</element>
+            <position>6</position>
+            <sys_created_by>alealvar</sys_created_by>
+            <sys_created_on>2021-09-30 17:37:57</sys_created_on>
+            <sys_id>064ab0e32ff230108eabd2172799b6a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_660033_now_exp_resource" sys_domain="global" view="Default view">824ab0e32ff230108eabd2172799b6a2</sys_ui_section>
+            <sys_updated_by>alealvar</sys_updated_by>
+            <sys_updated_on>2021-09-30 17:37:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_duration__min_</element>
+            <position>7</position>
+            <sys_created_by>alealvar</sys_created_by>
+            <sys_created_on>2021-09-30 17:37:57</sys_created_on>
+            <sys_id>864ab0e32ff230108eabd2172799b6a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_660033_now_exp_resource" sys_domain="global" view="Default view">824ab0e32ff230108eabd2172799b6a2</sys_ui_section>
+            <sys_updated_by>alealvar</sys_updated_by>
+            <sys_updated_on>2021-09-30 17:37:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>template_import_log.message</element>
+            <position>8</position>
+            <sys_created_by>alealvar</sys_created_by>
+            <sys_created_on>2021-09-30 17:37:57</sys_created_on>
+            <sys_id>0a4ab0e32ff230108eabd2172799b6a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_660033_now_exp_resource" sys_domain="global" view="Default view">824ab0e32ff230108eabd2172799b6a2</sys_ui_section>
+            <sys_updated_by>alealvar</sys_updated_by>
+            <sys_updated_on>2021-09-30 17:37:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>u_imp_tmpl_x_660033_now_exp_resource</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>alealvar</sys_created_by>
+            <sys_created_on>2021-09-30 17:37:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>824ab0e32ff230108eabd2172799b6a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_imp_tmpl_x_660033_now_exp_resource</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Now Experience Resources DB" source="x_660033_now_exp">960d29b62f3230108eabd2172799b683</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Now Experience Resources DB">960d29b62f3230108eabd2172799b683</sys_scope>
+            <sys_update_name>sys_ui_section_824ab0e32ff230108eabd2172799b6a2</sys_update_name>
+            <sys_updated_by>alealvar</sys_updated_by>
+            <sys_updated_on>2021-09-30 17:37:57</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
